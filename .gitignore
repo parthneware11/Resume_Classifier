@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+
+# Optional: ignore large models if needed
+# clf.joblib
+# tfidf.joblib
+
